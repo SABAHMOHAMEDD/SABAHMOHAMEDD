@@ -37,10 +37,11 @@
 ## 📫 Connect with Me:
 <p align="center"> 
   <a href="https://www.linkedin.com/in/sabah-mohamed-39320721a/" target="_blank"> 
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/> 
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="40"/> 
   </a> 
   <a href="mailto:sabahmohamed3312@gmail.com"> 
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/> 
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" height="40"/> 
   </a> 
 </p>
+
 
