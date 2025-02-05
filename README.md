@@ -7,19 +7,19 @@
 ## 🤖 About Me:
 
 - **💼 Currently working as a Mobile Application Developer.**
-- **🎯 Learning Advanced Flutter, Penetration Testing**
+- **🎯 Learning Advanced Flutter, Penetration Testing.**
 - **👥 Open to collaborating on Open Source Projects.**
 - **📂 All my projects are available at [My Repository](https://github.com/SABAHMOHAMEDD?tab=repositories).**
 
 ---
 
 ## 🚀 Languages and Tools:
-<p align="left"> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40"/>  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40"/> 
+<p align="center"> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="50"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="50"/>  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="50"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="50"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="50"/> 
 </p>
 
 ---
