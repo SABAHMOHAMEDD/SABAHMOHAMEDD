@@ -4,7 +4,7 @@
 
 
 ---
-![Alt text](https://drive.google.com/file/d/19Ugv8Z6JUF1RUUPcroENZo_yCHyOPxG6/view?usp=sharing)
+https://drive.google.com/file/d/19Ugv8Z6JUF1RUUPcroENZo_yCHyOPxG6/view?usp=sharing
 
 
 
